@@ -71,7 +71,7 @@
 
 ### 🔥 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MinjanAP&limit=5&theme=onedark" width="600px"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=5&theme=onedark" width="600px"/>
 </p>
 
 
