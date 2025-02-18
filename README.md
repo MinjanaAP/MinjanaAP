@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanaAP&theme=monokai" width="400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanaAP&theme=radical" width="400px" onerror="this.onerror=null;this.src='https://via.placeholder.com/400x100?text=Loading...'">
 </p>
 
 ### 🏆 GitHub Trophies
