@@ -62,8 +62,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanaAP&background=000000&stroke=FFFFFF&ring=FF5733&fire=FFA500&currStreakNum=FFFFFF" width="400px" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
 </p>
+
+### 📊 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanaAP&theme=radical" width="400px"/>
 
 ### 🏆 GitHub Trophies
 <p align="center">
