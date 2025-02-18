@@ -60,13 +60,13 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjanAP&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanAP&theme=radical" width="400px"/>
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinjanAP&theme=onedark&row=1&column=6" width="600px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6" width="600px"/>
 </p>
 
 ### 🔥 Top Contributed Repositories
