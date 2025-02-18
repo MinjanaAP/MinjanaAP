@@ -69,7 +69,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6" width="600px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6" width="800px"/>
 </p>
 
 ### 🔥 Top Contributed Repositories
