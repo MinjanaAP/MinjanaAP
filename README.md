@@ -77,7 +77,6 @@
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=15&theme=onedark" width="600px"/>
 </p>
----
 
 ### 🛠️ Latest Working Repositories
 <p align="center">
@@ -88,13 +87,13 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/pasan-athuluwage" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&margin-w=15&margin-h=15" />
   </a>
   <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-red" />
+    <img src="https://img.shields.io/badge/Website-Portfolio-red&margin-w=15&margin-h=15" />
   </a>
   <a href="mailto:pasanathuluwage28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-blue" />
+    <img src="https://img.shields.io/badge/Email-Contact-blue&margin-w=15&margin-h=15" />
   </a>
 </p>
 
