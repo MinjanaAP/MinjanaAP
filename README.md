@@ -55,19 +55,18 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![GitHub Streak](https://img.shields.io/badge/GitHub-Streak-orange?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="400px"/>
 </p>
 
 
 
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&langs_count=8&theme=radical" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
 
 ### 🏆 GitHub Trophies
 <p align="center">
