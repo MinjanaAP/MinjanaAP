@@ -79,7 +79,7 @@
 </p>
 
 ### 🛠️ Latest Working Repositories
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanaAP&theme=radical" width="400px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanaAP&theme=radical" width="400px"/>
 </p>
