@@ -83,13 +83,13 @@
 
 ### 🛠️ Latest Working Repositories
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanAP&theme=radical" width="400px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanAP&theme=radical" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanaAP&theme=radical" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanaAP&theme=radical" width="400px"/>
 </p>
 
 ### 🚀 Recent GitHub Repositories
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjanAP&show_icons=true&theme=radical" width="600px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="600px"/>
 </p>
 
 
