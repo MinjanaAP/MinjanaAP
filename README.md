@@ -69,20 +69,33 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
 
 ### 🏆 GitHub Trophies
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6" width="600px"/>
 </p>
 
 ### 🔥 Top Contributed Repositories
-<p align="center">
+<p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=15&theme=onedark" width="600px"/>
 </p>
 
 
 ---
 
-## 🌐 Connect with Me
+### 🛠️ Latest Working Repositories
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanAP&theme=radical" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanAP&theme=radical" width="400px"/>
+</p>
+
+### 🚀 Recent GitHub Repositories
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjanAP&show_icons=true&theme=radical" width="600px"/>
+</p>
+
+
+
+## 🌐 Connect with Me
+<p align="left">
   <a href="https://linkedin.com/in/pasan-athuluwage" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
   </a>
