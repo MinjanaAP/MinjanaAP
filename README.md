@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 About Me
+## 💫 About Me
 - 🔭 Currently working on **React, node.js, Laravel & Flutter** projects.
 - 🌱 Learning **Cloud Computing & DevOps**.
 - 🎨 UX Design enthusiast & Figma UI/UX Creator.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -99,5 +99,5 @@
 
 ---
 
-🔥 **Fun Fact:** _Let you meet yourself. 🚀_
+✍️  **Fun Fact:** _Let you meet yourself. 🚀_
 
