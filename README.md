@@ -69,7 +69,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6" width="800px"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" width="800px"/>
 </p>
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&margin-w=15&margin-h=15&no-frame=true" width="900px"/> </p>
