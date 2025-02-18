@@ -90,10 +90,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&margin-w=15&margin-h=15" />
   </a>
   <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-red&margin-w=15&margin-h=15" />
+    <img src="https://img.shields.io/badge/Website-Portfolio-red" />
   </a>
   <a href="mailto:pasanathuluwage28@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-blue&margin-w=15&margin-h=15" />
+    <img src="https://img.shields.io/badge/Email-Contact-blue" />
   </a>
 </p>
 
