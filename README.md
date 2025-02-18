@@ -60,13 +60,12 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="600px"/>
 </p>
 
 
-
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="600px"/>
 
 ### 🏆 GitHub Trophies
 <p align="left">
@@ -77,8 +76,6 @@
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=15&theme=onedark" width="600px"/>
 </p>
-
-
 ---
 
 ### 🛠️ Latest Working Repositories
@@ -86,13 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanaAP&theme=radical" width="400px"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanaAP&theme=radical" width="400px"/>
 </p>
-
-### 🚀 Recent GitHub Repositories
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="600px"/>
-</p>
-
-
 
 ## 🌐 Connect with Me
 <p align="left">
