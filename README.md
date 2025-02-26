@@ -65,7 +65,7 @@
 
 
 ### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="600px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="400px"/>
 
 ### 🏆 GitHub Trophies
 <p align="left">
