@@ -50,7 +50,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 
 ### **Programming Languages**
@@ -59,11 +59,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="600px"/>
-  
-</p>
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical&cache_seconds=86400)
+
 
 
 ### 📊 Most Used Languages
