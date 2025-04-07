@@ -72,6 +72,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" width="1200px"/>
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinjanaAP&theme=highcontrast" />
+</p>
+
+---
 
 ### 🔥 Top Contributed Repositories
 <p align="left">
