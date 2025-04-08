@@ -67,6 +67,7 @@
 ### 📊 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="500px"/>
 
+
 ### 🏆 GitHub Trophies
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" width="1200px"/>
@@ -84,6 +85,8 @@
 <p align="left">
   <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=15&theme=onedark" width="600px"/>
 </p>
+
+
 
 ### 🛠️ Latest Working Repositories
 <p align="left">
@@ -103,6 +106,8 @@
     <img src="https://img.shields.io/badge/Email-Contact-blue" />
   </a>
 </p>
+
+
 
 ---
 
