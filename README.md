@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Pasan Athuluwage! 👋</h1>
+<h1 align="center">✨ Hi there, I'm Pasan Athuluwage! 👋</h1>
 
-<p align="center">
-  🎓 IT Undergraduate | 💻 Software Developer | 🚀 Passionate about Tech  
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Continuous+Learner" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -59,40 +59,58 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical&cache_seconds=86400)
+## 📈 GitHub Stats
 
-
-
-### 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="500px"/>
-
-
-### 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=onedark&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" width="1200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MinjanaAP&show_icons=true&theme=radical" width="450px"/>
+</p>
+
+
+## 📊 Most Used Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinjanaAP&layout=compact&theme=radical" width="370px"/>
+
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MinjanaAP&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ## 🔥 Contribution Streak
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MinjanaAP&theme=highcontrast" />
-</p>
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinjanaAP&theme=radical" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinjanaAP&bg_color=000000&color=ffffff&line=FE428E&point=ffffff&area=true&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔥 Top Contributed Repositories
-<p align="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=15&theme=onedark" width="600px"/>
-</p>
+## 📌 Highlights
+
+- 🚀 **Top Contributed Projects**
+  
+  ![Top Projects](https://github-contributor-stats.vercel.app/api?username=MinjanaAP&limit=10&theme=radical)
+
+- 🧠 **Repo Summary**
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanaAP&theme=radical" width="600px"/>
+    </td>
+    <td width="50%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanaAP&theme=radical" width="600px"/>
+    </td>
+  </tr>
+</table>
 
 
-
-### 🛠️ Latest Working Repositories
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinjanaAP&theme=radical" width="400px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinjanaAP&theme=radical" width="400px"/>
-</p>
 
 ## 🌐 Connect with Me
 <p align="left">
@@ -106,6 +124,10 @@
     <img src="https://img.shields.io/badge/Email-Contact-blue" />
   </a>
 </p>
+
+
+
+
 
 
 
