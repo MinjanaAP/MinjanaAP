@@ -1,4 +1,5 @@
-<h1 align="center">✨ Hi there, I'm Pasan Athuluwage! 👋</h1>
+<h1 align="center">✨ Hi there, I'm Pasan Athuluwage!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h1>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Tech+Innovator;Continuous+Learner" alt="Typing SVG" />
@@ -110,9 +111,9 @@
   </tr>
 </table>
 
-
-
 ## 🌐 Connect with Me
+
+
 <p align="left">
   <a href="https://linkedin.com/in/pasan-athuluwage" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&margin-w=15&margin-h=15" />
