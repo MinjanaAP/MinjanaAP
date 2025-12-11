@@ -87,7 +87,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies 
 
 <div align="center">
   
-  ![Pasan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinjanaAP&theme=transparent) 
+  ![Pasan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinjanaAP&theme=radical) 
 
   <table border="0">
   <tr>
@@ -99,8 +99,19 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies 
     </td>
   </tr>
 </table>
+ <table border="0">
+  <tr>
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinjanaAP&theme=radical&utcOffset=8&hide_border=false" width="600px" alt="languages graph" />
+    </td>
+    <td width="50%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinjanaAP&theme=radical" width="600px"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
